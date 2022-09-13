@@ -14,7 +14,7 @@
 
 ### Локально:
 
-* Скачайте архив из [релизов](https://github.com/greendevilll/richtoneInc/releases).
+* Скачайте архив из [релизов](https://github.com/greendevilll/richtoneBot/releases).
 * Установите нужные для проекта зависимости командой
 
 ```bash
